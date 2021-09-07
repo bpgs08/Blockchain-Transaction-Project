@@ -10,6 +10,10 @@ npm start
 
 Then open `http://localhost:3100/` to see the app.
 
+## Loom Preview
+
+https://www.loom.com/share/4e6784742e0941f197a746ec81f4fc3e
+
 ## Features
 - NextJS
 - React 
