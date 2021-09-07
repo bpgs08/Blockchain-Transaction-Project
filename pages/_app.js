@@ -3,8 +3,8 @@ import { Helmet } from "react-helmet";
 import styledNormalize from "styled-normalize";
 import App from "next/app";
 
-import Layout from "components/Navigation/Layout";
-import theme from "utils/theme";
+import Layout from "../src/components/Navigation/Layout";
+import theme from "../src/utils/theme";
 
 const GlobalStyle = createGlobalStyle`
   ${styledNormalize}
